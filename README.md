@@ -12,6 +12,6 @@ I am currently open to take on further projects so if you're in any way interest
 - Or send an email to: contact@pontuzk.dev
 
 ##### Projects I am currently part of :octocat:
-* University of Portsmouth - PONToon Career Guide
-* University of Portsmouth - [iArsenic](https://github.com/portsoc/iArsenic)
-* Personal Project - [Project Path](https://github.com/TxJson/project-path)
+* PONToon Career Guide
+* [iArsenic](https://github.com/portsoc/iArsenic)
+* [Project Path](https://github.com/TxJson/project-path)
