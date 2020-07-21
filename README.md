@@ -6,10 +6,10 @@ I am a 20 year old software developer currently living in Portsmouth, UK. I am o
 </details>
 
 ##### Projects I am currently part of :octocat:
-* [iArsenic](https://github.com/portsoc/iArsenic) _w/ University of Portsmouth_ (June 2020 - )
+* [iArsenic](https://github.com/portsoc/iArsenic) w/ University of Portsmouth (June 2020 - )
 
 #### Previous Projects
-* **PONToon Career Guide** _w/ University of Portsmouth_ (February 2020 - June 2020)
+* _PONToon Career Guide_ w/ University of Portsmouth (February 2020 - June 2020)
 
 #### Interested in working with me? 🔭
 I am currently open to take on further projects so if you're in any way interested in working with me, please send me an email using either of the two provided ways to contact me down below and I will get back to you as soon as possible.
