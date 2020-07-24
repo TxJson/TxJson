@@ -5,7 +5,7 @@
 I am a 20 year old software developer currently living in Portsmouth, UK. I am originally from Sweden but I moved here to study for a Bachelors in Software Engineering and I am as of writing this, at the end of my first year and start of my second year. I have been programming for about 4 years using a multitude of languages, all of which you may find here on my Github Profile. I spent a majority of my time developing and designing games but my passion lies with developing software.
 </details>
 
-##### Projects I am currently part of :octocat:
+#### Projects I am currently part of :octocat:
 * [iArsenic](https://github.com/portsoc/iArsenic) with the University of Portsmouth (June 2020 - )
 
 #### Previous Projects
