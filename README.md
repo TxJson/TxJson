@@ -6,7 +6,7 @@ I am a 20 year old software developer currently living in Portsmouth, UK. I am o
 </details>
 
 <details>
-  <summary><b>Languages :computer: </b></summary>
+  <summary><b>Languages :bulb: </b></summary>
   <ul>
     <li>C</li>
     <li>C#</li>
