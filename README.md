@@ -1,4 +1,4 @@
-#### Old Projects I've been a part of :octocat:
+#### Previous projects :octocat:
 * [iArsenic](https://github.com/portsoc/iArsenic) with the University of Portsmouth [Jun 2020 - Nov 2020]
 * [PONToon Career Guide](https://github.com/pontoonapps/CareerGuide) with the University of Portsmouth [Feb 2020 - Dec 2020]
 
