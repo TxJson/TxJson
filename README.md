@@ -4,3 +4,4 @@
 
 #### Interested in working with me? 🔭
 I am currently open to take on further projects so if you're in any way interested in working with me, please send me an email using either of the two provided ways to contact me down below and I will get back to you as soon as possible.
+nylah.klasson@gmail.com
