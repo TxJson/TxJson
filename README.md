@@ -1,5 +1,5 @@
 #### Previous projects :octocat:
-* [iArsenic](https://github.com/portsoc/iArsenic) with the University of Portsmouth [Jun 2020 - Nov 2020]
+* [iArsenic](https://github.com/portsoc/iArsenic) with the University of Portsmouth [Jun 2020 - Nov 2020] [Mar 2021 - ]
 * [PONToon Career Guide](https://github.com/pontoonapps/CareerGuide) with the University of Portsmouth [Feb 2020 - Dec 2020]
 
 #### Interested in working with me? 🔭
