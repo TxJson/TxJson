@@ -9,3 +9,7 @@
 I am open to take on projects. If you're interested, please contact me using either of the provided ways beneath this and I will get back to you as soon as possible.
 
 **Business Inquiries:** nylah.klasson@gmail.com
+
+
+#### Github Statistics
+![Nylah D. Klassons GitHub stats](https://github-readme-stats.vercel.app/api?username=txjson&count_private=true)
