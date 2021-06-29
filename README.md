@@ -1,9 +1,8 @@
 # Hey there! 🌸
 
 #### What am I up to? 🐨
-Software Developer @ Fresh Relevance
-
-Software Engineering Student @ The University of Portsmouth
+* Software Developer @ Fresh Relevance [June 2021 -]
+* Software Engineering Student @ The University of Portsmouth [Sept 2019 -]
 
 #### Previous projects :octocat:
 * [iArsenic](https://github.com/portsoc/iArsenic) with the University of Portsmouth [Jun 2020 - Nov 2020, Mar 2021 - Jun 2021]
