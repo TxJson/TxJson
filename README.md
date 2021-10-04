@@ -10,7 +10,7 @@
 
 #### Interested in working with me? 🔭
 I am currently not open to actively take on any new projects. However, if you're interested, please contact me using using my email for business inquiries and I will get back to you as soon as possible!
-**Business Inquiries:** nylah.klasson@gmail.com
+**Business Inquiries:** contact@nylahdk.com
 
 
 #### Github Statistics
