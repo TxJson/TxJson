@@ -10,8 +10,3 @@
 
 #### Interested in working with me? 🔭
 Unfortunately I am not taking on any new projects until September 2022.
-**Business Inquiries:** contact@nylahdk.com
-
-
-#### Github Statistics
-![Nylah D. Klassons GitHub stats](https://github-readme-stats.vercel.app/api?username=txjson&count_private=true)
