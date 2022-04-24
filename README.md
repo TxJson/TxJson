@@ -1,4 +1,4 @@
-# Hey there! 🌸
+# Hi there! 🌸
 
 #### What am I up to? 🐨
 * Software Developer @ Fresh Relevance [June 2021 -]
@@ -9,7 +9,7 @@
 * [PONToon Career Guide](https://github.com/pontoonapps/CareerGuide) with the University of Portsmouth [Feb 2020 - Dec 2020]
 
 #### Interested in working with me? 🔭
-I am currently not open to actively take on any new projects.
+Unfortunately I am not taking on any new projects until September 2022.
 **Business Inquiries:** contact@nylahdk.com
 
 
