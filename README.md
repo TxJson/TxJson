@@ -10,3 +10,5 @@
 
 #### Interested in working with me? 🔭
 Unfortunately I am not taking on any new projects until September 2022.
+
+![](https://komarev.com/ghpvc/?username=TxJson&color=ff69b4)
