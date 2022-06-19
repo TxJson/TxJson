@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Software Engineering Student from Sweden</h3>
 
 #### What am I up to? 🐨
-* Software Developer @ Fresh Relevance [June 2021 -]
+* Placement Software Developer @ Fresh Relevance [June 2021 -]
 * Software Engineering Student @ The University of Portsmouth [Sept 2019 -]
 
 #### What have I done in the past? :octocat:
