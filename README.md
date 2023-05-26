@@ -3,7 +3,7 @@
 
 #### What am I up to? 🐨
 * Part-Time Frontend Developer @ [Fresh Relevance](https://www.freshrelevance.com/) [Sept 2022 - ]
-* B.Sc Software Engineering (Hons) Student @ [The University of Portsmouth](https://www.port.ac.uk/) [Sept 2019 -]
+* B. Sc Software Engineering (Hons) Student @ [The University of Portsmouth](https://www.port.ac.uk/) [Sept 2019 - July 2023]
 
 #### What have I done in the past? :octocat:
 * Placement Software Developer @ [Fresh Relevance](https://www.freshrelevance.com/) [June 2021 - Sept 2022]
