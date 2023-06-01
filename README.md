@@ -1,5 +1,5 @@
 <h1 align="center"> Hi there, I'm Nylah! 🌸 </h1>
-<h3 align="center">A passionate Software Engineering Student from Sweden</h3>
+<h3 align="center">A passionate Software Engineer from Sweden</h3>
 
 #### What am I up to? 🐨
 * Part-Time Frontend Developer @ [Fresh Relevance](https://www.freshrelevance.com/) [Sept 2022 - ]
