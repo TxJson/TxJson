@@ -2,7 +2,8 @@
 <h3 align="center">A passionate Software Engineer from Sweden</h3>
 
 #### What am I up to? 🐨
-* Frontend Developer @ [Fresh Relevance](https://www.freshrelevance.com/) [July 2023 - ]
+* Software Developer @ [Fresh Relevance](https://www.freshrelevance.com/) [Mar 2024 - ]
+* Frontend Developer @ [Fresh Relevance](https://www.freshrelevance.com/) [July 2023 - Mar 2024]
 
 #### What have I done in the past? :octocat:
 * Part-Time Frontend Developer @ [Fresh Relevance](https://www.freshrelevance.com/) [Sept 2022 - June 2023]
