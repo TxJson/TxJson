@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Software Engineer from Sweden</h3>
 
 #### What am I up to? 🐨
-* Software Engineer @ [Dotdigital]() [Sep 2024 - Now]
+* Software Engineer @ [Dotdigital](https://dotdigital.com/) [Sep 2024 - Now]
 
 #### What have I done in the past? :octocat:
 * Software Developer @ [Fresh Relevance](https://www.freshrelevance.com/) [Mar 2024 - Aug 2024]
